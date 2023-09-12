@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795070369342",
+    "project_id": "myapp-814bf",
+    "storage_bucket": "myapp-814bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795070369342:android:843a864b77d6dbe1a84b6f",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkhnjAzB3YseDO_GddpXyAOi1zKAEza3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795070369342:android:368ae59db4199a53a84b6f",
+        "android_client_info": {
+          "package_name": "com.example.parkintech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkhnjAzB3YseDO_GddpXyAOi1zKAEza3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
